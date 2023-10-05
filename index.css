@@ -18,6 +18,7 @@ header {
 
 body {
   color: #263138;
+  scroll-behavior: smooth;
 }
 
 header nav a {
